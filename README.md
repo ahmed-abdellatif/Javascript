@@ -22,5 +22,5 @@ Basic ReactJS, Material-UI, Website/Application Template
 </p><br>
 
 <p align="center">
-  <img max-width="https://github.com/ame-abdellatif/ReactJS-MaterialUI-Template/blob/master/ReactJS-Material-UI/public/codemirror.png">
+  <img max-width="200" src="https://github.com/ame-abdellatif/ReactJS-MaterialUI-Template/blob/master/ReactJS-Material-UI/public/codemirror.png">
 </p><br>
